@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^1.19.0",
+    "qcloudsms_js": "^0.1.1"
+  }
+}
